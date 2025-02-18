@@ -1,3 +1,5 @@
+![Security Banner](https://www.example.com/security-banner.jpg)
+
 # **Flutter App Security Best Practices**
 
 ## **1. Root & Jailbreak Detection**
