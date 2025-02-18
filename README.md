@@ -29,6 +29,7 @@
   final client = HttpCertificatePinning.createHttpClient(['SHA256_PIN_HERE']);
   ```
 - Alternative: Use [`dio`](https://pub.dev/packages/dio) with a custom `SecurityContext`.
+- Use Dio's built-in certificate pinning for better code management.
 
 ---
 
